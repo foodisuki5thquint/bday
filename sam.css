@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap');
 
 :root {
-   
+   --bg: #100b1c;
     --panel: rgba(31, 22, 47, 0.82);
     --text: #f5efff;
     --muted: #b9adc9;
